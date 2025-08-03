@@ -52,7 +52,7 @@ const Projects = () => {
         "Code execution examples",
         "Algorithm explanations"
       ],
-      liveDemo: " https://astonishing-faloodeh-e24544.netlify.app/",
+      liveDemo: "https://astonishing-faloodeh-e24544.netlify.app/",
       github: "https://github.com/Subamprasad/DSA-Instructor-AI",
       gradient: "from-green-500 to-emerald-600"
     },
@@ -69,7 +69,7 @@ const Projects = () => {
         "Pomodoro timer",
         "AI-powered utilities"
       ],
-      liveDemo: "shimmering-babka-c8bae6.netlify.app",
+      liveDemo: "https://shimmering-babka-c8bae6.netlify.app/",
       github: "https://github.com/Subamprasad/Smart-Multi-Tool-AI-Agent",
       gradient: "from-orange-500 to-red-600"
     }
