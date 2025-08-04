@@ -1,7 +1,6 @@
 # 💼 My Personal Portfolio Website
 
-## 🌐 Live Demo  Local:   http://localhost:8080/ 
-  ➜  Network: http://10.25.224.30:8080/
+## 🌐 Live Demo  Local:   https://subampportfolio.netlify.app/
 Welcome to my personal portfolio website! This is a modern, responsive platform I built to showcase my professional profile, skills, projects, and achievements as a Machine Learning enthusiast and web developer.
 
 ## 🚀 About the Project
